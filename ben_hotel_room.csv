@@ -1,0 +1,6 @@
+Room ID,Room Type,Max People,Price,Person,BookCode
+1,Standard-Single,1,30,Person,A
+2,Standard-Double,2,35,People,B
+3,Deluxe-Double,2,50,People,A
+4,Family,4,60,People,A
+5,Suit,4,75,People,A
